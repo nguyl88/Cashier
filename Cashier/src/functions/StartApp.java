@@ -73,6 +73,8 @@ public class StartApp extends Application{
 			//primaryStage.setTitle("Hobby Tracker");
 			primaryStage.setScene(loginPage);
 			primaryStage.show();
+			
+			System.out.println("Success");
 
 	}
 	
